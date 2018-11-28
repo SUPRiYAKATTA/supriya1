@@ -6,4 +6,4 @@ elif(y%100==0):
 elif (y%400==0):
     print("leap year")
 else:
-    print("not")
+    print("no")
