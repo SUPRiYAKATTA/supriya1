@@ -6,5 +6,6 @@ if (p>1):
 			break
 		else:
 			print('yes')
+			break
 else:
      print('enter a valid number')
