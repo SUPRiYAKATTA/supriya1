@@ -8,4 +8,4 @@ while(b>0):
 if(sum==k):
     print("yes")
 else:
-    print("not")
+    print("no")
