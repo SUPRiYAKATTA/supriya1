@@ -1,3 +1,3 @@
 n=int(input())
-for x in range(1,6):
-    print(n*x)
+for i in range(1,n+1):
+	print(n,'*',i,'=',n*i)
