@@ -6,5 +6,5 @@ for i in range(L+1,U):
         for j in range(2,i):
             if((i%j)==0):
                 break
-            else:
-                print(i,end="")
+        else:
+            print(i,end=" ")
