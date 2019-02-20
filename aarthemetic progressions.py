@@ -1,0 +1,6 @@
+a=int(input())
+b=int(input())
+c=int(input())
+sum2=((1/2)*a)
+sum=((2*b)+((a-1)*c))
+print(int(sum*sum2))
