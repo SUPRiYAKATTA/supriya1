@@ -1,5 +1,4 @@
-c=int(input())
-d=int(input())
+c,d=map(int,input().split())
 temp=c
 c=d
 d=temp
